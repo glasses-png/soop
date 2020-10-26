@@ -1,0 +1,92 @@
+body{
+  background-image: url('/images/back.jpeg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+.centered-container{
+  align-content: center;
+  background-color:palevioletred;
+
+}
+.fgpwd{
+  color:white;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.button1{
+  background-color:green;
+  border-radius: 50px;
+  align-items: center;
+  border-color: green;
+  margin: 8px;
+  color: white;
+  padding: 7px;
+  cursor: pointer;
+  width: 30%;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+#button{
+  text-align: center;
+
+}
+
+.validate-input{
+  border-radius: 50px;
+}
+
+.container-fluid{
+  align-items: center;
+  left: 25%;
+  right: 25%;
+  position: absolute;
+  margin: 0 auto;
+  width: 325px;
+  height: 10vh;
+  margin-top: 2%;
+  border-radius: 5px;
+}
+.logo-div img{
+  width: 100%;
+  height: auto;
+}
+.bg{
+  position: relative;
+}
+.footer{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  
+}
+.login{
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  padding: 12px;
+  border-radius: 50px;
+
+}
+.credentials{
+  padding: 10px;
+  color: white;
+}
+.demo{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#pd{
+  text-align: justify;
+}
+.container-fluid2{
+  background-color: ivory;
+  height: 90px;
+}
